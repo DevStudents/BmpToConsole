@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522842153 source:c:\cri\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<fstream>
+
