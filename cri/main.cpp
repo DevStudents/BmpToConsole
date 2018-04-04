@@ -33,7 +33,7 @@ void colorlist()
     SetConsoleTextAttribute( ho , 32 | 64);
     cout << "193,156,0\n";
     SetConsoleTextAttribute( ho , 32 | 128);
-    cout << "22,198,12\n";
+    cout << "22,198,30\n";
     SetConsoleTextAttribute( ho , 32 | 64 | 128);
     cout << "249,241,165\n";
     SetConsoleTextAttribute( ho , 64 | 128);
